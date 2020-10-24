@@ -1,6 +1,6 @@
 # MobileGame-CatchMadamOcta
 A simple game for android
-You must push on Madam Octa as many times as you possible within the given time each push will earn you 1 point.
+You must push on Madam Octa as many times as possible within the given time each push will earn you 1 point.
 Catch her, she is very venomous.
 
 ![11_360x640](https://user-images.githubusercontent.com/34456517/89759767-99c5b300-daf3-11ea-84ed-91845048ef53.jpg)
